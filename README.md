@@ -1,4 +1,4 @@
 # Pochita
 
 
-![alt text](pochita.jpg)
+![description](pochita.jpg)
